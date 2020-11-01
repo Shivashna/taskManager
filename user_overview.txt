@@ -1,0 +1,31 @@
+The total number of registered users : 4
+The total number of generated tasks : 7
+
+admin:
+Total number of tasks assigned : 2
+percentage of total number of tasks assigned : 28.57%
+percentage of total number of completed tasks : 14.29%
+percentage of total number of incomplete tasks : 14.29%
+percentage of total number of incomplete and overdue tasks : 0%
+
+timothy:
+Total number of tasks assigned : 2
+percentage of total number of tasks assigned : 28.57%
+percentage of total number of completed tasks : 14.29%
+percentage of total number of incomplete tasks : 14.29%
+percentage of total number of incomplete and overdue tasks : 0%
+
+shana:
+Total number of tasks assigned : 2
+percentage of total number of tasks assigned : 28.57%
+percentage of total number of completed tasks : 14.29%
+percentage of total number of incomplete tasks : 14.29%
+percentage of total number of incomplete and overdue tasks : 0%
+
+Shivani:
+Total number of tasks assigned : 1
+percentage of total number of tasks assigned : 14.29%
+percentage of total number of completed tasks : 0%
+percentage of total number of incomplete tasks : 14.29%
+percentage of total number of incomplete and overdue tasks : 14.29%
+

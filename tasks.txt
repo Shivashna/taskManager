@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 01 October 2020, 05 October 2020, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 06 October 2020, 12 October 2020, No
+shana, Filing, Making sure all the files are in order, 02 October 2020, 12 October 2020, Yes
+timothy, Schedule meetings, Schedule meetings with clients and suppliers, 03 October 2020, 12 October 2020, Yes
+Shivani, Emails, Send emails to clients regarding increase in prices , 04 October 2020, 06 October 2020, No
+timothy, Deliveries, Deliver all the clients orders for the week, 12 October 2020, 15 October 2020, No
+shana, Place orders, Place orders for clients for the week, 12 October 2020, 13 October 2020, No
